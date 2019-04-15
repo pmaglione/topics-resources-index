@@ -1,4 +1,4 @@
-#Reinforcement Learning
+# Reinforcement Learning
 
 ## Books
 - [Reinforcement Learning Book by Sutton and Barto](http://incompleteideas.net/book/RLbook2018.pdf)
