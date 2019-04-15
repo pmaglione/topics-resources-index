@@ -1,10 +1,10 @@
 # Topics Resources Index
 
-## MDP
+## Markov Decision Process
 [Section](mdp.md)
 
 ## Reinforcement Learning
-[Sectiom](rl.md)
+[Section](rl.md)
 
-## EM
+## Expectation Maximization
 [Section](em.md)
