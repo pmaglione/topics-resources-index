@@ -8,3 +8,6 @@
 
 ## Expectation Maximization
 [Section](em.md)
+
+## Datasets
+[Section](datasets.md)
