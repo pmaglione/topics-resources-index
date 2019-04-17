@@ -8,4 +8,5 @@
 - [AAAI - ARTIFICIAL INTELLIGENCE](https://aaai.org/Conferences/AAAI/aaai.php)
 - [CHI - Human Factors in Computing Systems](https://chi2019.acm.org/)
 - [Bayesian Crowd](https://www.tinbergen.n)
+- [IJCAI - International Joint Conferences on Artificial Intelligence](https://www.ijcai.org/)
 
